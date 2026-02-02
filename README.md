@@ -1,16 +1,19 @@
 # Background Segmentation Tool
 
-A professional Python-based GUI application that uses **MediaPipe's Selfie Segmenter** to perform real-time image background manipulation.
+A Python-based GUI application that uses **MediaPipe's Selfie Segmenter** to perform real-time image and video background manipulation.
 
 ## Features
-* **Remove Background:** Isolates the subject and removes the background.
-* **Green Screen:** Replaces the background with a standard chroma key green.
-* **Change Background:** Allows users to upload a custom image as a new background.
+* **Single Image Processing:** Remove backgrounds, apply a Green Screen, or replace with a custom background image.
+* **Live Video Mode:** Real-time background removal using your webcam with low latency.
+* **Batch Processing:** Process multiple images at once and save them automatically to a dedicated folder.
+* **Professional UI:** Modern and sleek dark-themed interface built with `ttkbootstrap`.
+* **Export Ready:** Instantly save your processed images in PNG or JPG format.
 
 ## Tech Stack
 * **Core:** Python, OpenCV, MediaPipe (Task API)
 * **GUI:** Tkinter
 * **Imaging:** Pillow, NumPy
+* **Dark-Theme-Interface** ttkbootstrap
 
 ## How it Works
 This tool is powered by the **MediaPipe Selfie Segmenter** model. 
@@ -40,9 +43,7 @@ This tool is powered by the **MediaPipe Selfie Segmenter** model.
     python main.py
     ```
 
-    <img width="400" height="350" alt="Screenshot 2026-02-02 150533" src="https://github.com/user-attachments/assets/9994db56-f410-49ee-bca3-cdc17d74d4fa" />
-    <img width="400" height="350" alt="Screenshot 2026-02-02 150557" src="https://github.com/user-attachments/assets/7198a158-cb0b-421b-9fd1-d92895d7279e" />
-    <img width="400" height="350" alt="Screenshot 2026-02-02 150610" src="https://github.com/user-attachments/assets/2ab0cc33-1d17-4aaa-a5e4-930fd49d7d71" />
+
 
 
     
