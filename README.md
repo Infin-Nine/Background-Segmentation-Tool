@@ -1,4 +1,4 @@
-# Background Segmentation Tool
+# Background Removal Tool
 
 A Python-based GUI application that uses **MediaPipe's Selfie Segmenter** to perform real-time image and video background manipulation.
 
