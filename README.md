@@ -43,8 +43,12 @@ This tool is powered by the **MediaPipe Selfie Segmenter** model.
     python main.py
     ```
 
+<<<<<<< HEAD
 
 
 
     
 
+=======
+    <img width="1100" height="735" alt="Screenshot 2026-02-02 160916" src="https://github.com/user-attachments/assets/f880b280-8c74-4aa6-a725-bef48dbaf35d" />
+>>>>>>> 913ca08074fe93dee5580d0d858d35f80f718607

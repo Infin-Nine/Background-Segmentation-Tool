@@ -62,7 +62,7 @@ def segment_core(image, mode, bg_img=None):
 class SegmentationApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("🔥 Professional MediaPipe Segmentation Tool")
+        self.root.title("Background Removal Toolkit")
         self.root.geometry("1100x700")
 
         self.image = None
