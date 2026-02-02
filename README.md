@@ -13,7 +13,7 @@ A Python-based GUI application that uses **MediaPipe's Selfie Segmenter** to per
 * **Core:** Python, OpenCV, MediaPipe (Task API)
 * **GUI:** Tkinter
 * **Imaging:** Pillow, NumPy
-* **Dark-Theme-Interface** ttkbootstrap
+* **Dark-Theme-Interface:** ttkbootstrap
 
 ## How it Works
 This tool is powered by the **MediaPipe Selfie Segmenter** model. 
