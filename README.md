@@ -40,10 +40,4 @@ This tool is powered by the **MediaPipe Selfie Segmenter** model.
     python main.py
     ```
 
-    <img width="400" height="350" alt="Screenshot 2026-02-02 150533" src="https://github.com/user-attachments/assets/9994db56-f410-49ee-bca3-cdc17d74d4fa" />
-    <img width="400" height="350" alt="Screenshot 2026-02-02 150557" src="https://github.com/user-attachments/assets/7198a158-cb0b-421b-9fd1-d92895d7279e" />
-    <img width="400" height="350" alt="Screenshot 2026-02-02 150610" src="https://github.com/user-attachments/assets/2ab0cc33-1d17-4aaa-a5e4-930fd49d7d71" />
-
-
-    
-
+    <img width="1100" height="735" alt="Screenshot 2026-02-02 160916" src="https://github.com/user-attachments/assets/f880b280-8c74-4aa6-a725-bef48dbaf35d" />
