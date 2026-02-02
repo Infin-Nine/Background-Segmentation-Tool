@@ -1,6 +1,3 @@
-# Background-Segmentation-Tool
-
-
 # Background Segmentation Tool
 
 A professional Python-based GUI application that uses **MediaPipe's Selfie Segmenter** to perform real-time image background manipulation.
